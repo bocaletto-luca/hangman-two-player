@@ -1,0 +1,38 @@
+[
+    {
+        "date": "19\/05\/2025, 13:17:34",
+        "player1": "asd",
+        "player2": "cccc",
+        "result": "Vittoria"
+    },
+    {
+        "date": "19\/05\/2025, 13:28:50",
+        "player1": "sdf",
+        "player2": "ssss",
+        "result": "Pareggio"
+    },
+    {
+        "date": "19\/05\/2025, 13:29:22",
+        "player1": "sdf",
+        "player2": "ssss",
+        "result": "ssss vince"
+    },
+    {
+        "date": "19\/05\/2025, 13:30:17",
+        "player1": "sdf",
+        "player2": "ssss",
+        "result": "Pareggio"
+    },
+    {
+        "date": "19\/05\/2025, 13:40:08",
+        "player1": "asdfadf",
+        "player2": "adf",
+        "result": "Pareggio"
+    },
+    {
+        "date": "19\/05\/2025, 13:41:15",
+        "player1": "ddd",
+        "player2": "ssss",
+        "result": "Pareggio"
+    }
+]
